@@ -1,0 +1,161 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:1:1-61:12
+	xmlns:android
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:1:11-69
+	package
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:2:5-45
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:4:5-76
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:4:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:5:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:9:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:11:22-64
+uses-feature#android.hardware.wifi.direct
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:14:5-16:35
+	android:required
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:16:9-32
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:15:9-52
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:19:5-71
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:19:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:20:5-71
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:20:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:21:5-72
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:21:22-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.BODY_SENSORS
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:24:22-68
+application
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:26:5-59:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:31:9-35
+	android:label
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:29:9-41
+	android:allowBackup
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:27:9-35
+	android:icon
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:28:9-43
+	android:theme
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:32:9-40
+	android:launchMode
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:30:9-40
+activity#com.example.android.wifidirect.WiFiDirectActivity
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:33:9-56
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:33:19-53
+service#com.example.android.wifidirect.FileTransferService
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:35:9-37:38
+	android:enabled
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:37:13-35
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:36:13-48
+service#com.example.android.wifidirect.MessageTransferService
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:38:9-40:38
+	android:enabled
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:40:13-35
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:39:13-51
+activity#com.example.android.wifidirect.SplashScreen
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:42:9-48:20
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:42:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:43:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:44:17-69
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:46:27-74
+activity#com.example.android.wifidirect.LoginScreen
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:49:9-49
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:49:19-46
+activity#com.example.android.wifidirect.RegistrationActivity
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:50:9-58
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:50:19-55
+activity#com.example.android.wifidirect.LandingActivity
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:51:9-53
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:51:19-50
+activity#com.example.android.wifidirect.PrepareMessage
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:52:9-52
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:52:19-49
+activity#com.example.android.wifidirect.MessageReceived
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:53:9-53
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:53:19-50
+activity#com.example.android.wifidirect.Profile
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:54:9-57:59
+	android:label
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:56:13-59
+	android:theme
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:57:13-56
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:55:13-36
+activity#com.example.android.wifidirect.ProfileView
+ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:58:9-58
+	android:name
+		ADDED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml:58:19-46
+uses-sdk
+INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\rsh\AndroidStudioProjects\MobileHealthNetwork\app\src\main\AndroidManifest.xml

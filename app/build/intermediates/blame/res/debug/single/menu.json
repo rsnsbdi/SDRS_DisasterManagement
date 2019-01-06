@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_logout.xml",
+        "source": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\src\\main\\res\\menu\\action_logout.xml"
+    },
+    {
+        "merged": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_items.xml",
+        "source": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\src\\main\\res\\menu\\action_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_login_settings.xml",
+        "source": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\src\\main\\res\\menu\\action_login_settings.xml"
+    }
+]

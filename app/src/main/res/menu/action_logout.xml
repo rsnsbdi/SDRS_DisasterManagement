@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/servermenuitem"
+        android:icon="@drawable/ic_action_on_off"
+        android:title="Server IP"
+        android:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/phonemenuitem"
+        android:icon="@drawable/ic_action_discover"
+        android:title="Phone"
+        android:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/logout"
+        android:title="Logout"
+        android:showAsAction="ifRoom|withText" />
+
+</menu>

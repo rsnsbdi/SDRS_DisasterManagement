@@ -1,0 +1,1088 @@
+[
+    {
+        "outputFile": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 20,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endColumn": 90,
+                    "endOffset": 442
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 447,
+                    "endColumn": 102,
+                    "endOffset": 545
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 550,
+                    "endColumn": 102,
+                    "endOffset": 648
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 653,
+                    "endColumn": 104,
+                    "endOffset": 753
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 758,
+                    "endColumn": 106,
+                    "endOffset": 860
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 865,
+                    "endColumn": 108,
+                    "endOffset": 969
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 974,
+                    "endColumn": 108,
+                    "endOffset": 1078
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1083,
+                    "endColumn": 108,
+                    "endOffset": 1187
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1192,
+                    "endColumn": 108,
+                    "endOffset": 1296
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1301,
+                    "endColumn": 108,
+                    "endOffset": 1405
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1410,
+                    "endColumn": 106,
+                    "endOffset": 1512
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1517,
+                    "endColumn": 102,
+                    "endOffset": 1615
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1620,
+                    "endColumn": 118,
+                    "endOffset": 1734
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1739,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1889
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1894,
+                    "endLine": 24,
+                    "endColumn": 12,
+                    "endOffset": 2044
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2049,
+                    "endColumn": 104,
+                    "endOffset": 2149
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2154,
+                    "endColumn": 120,
+                    "endOffset": 2270
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2275,
+                    "endColumn": 100,
+                    "endOffset": 2371
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2376,
+                    "endLine": 29,
+                    "endColumn": 12,
+                    "endOffset": 2518
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2523,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 2659
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2664,
+                    "endColumn": 102,
+                    "endOffset": 2762
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2767,
+                    "endColumn": 118,
+                    "endOffset": 2881
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2886,
+                    "endColumn": 106,
+                    "endOffset": 2988
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2993,
+                    "endColumn": 102,
+                    "endOffset": 3091
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3096,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3238
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3243,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3393
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3398,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3564
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3569,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3713
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3718,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3878
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3883,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 4035
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4040,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4186
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4191,
+                    "endColumn": 118,
+                    "endOffset": 4305
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4310,
+                    "endLine": 52,
+                    "endColumn": 12,
+                    "endOffset": 4454
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4459,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 4603
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4608,
+                    "endColumn": 111,
+                    "endOffset": 4715
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4720,
+                    "endColumn": 146,
+                    "endOffset": 4862
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4867,
+                    "endLine": 58,
+                    "endColumn": 12,
+                    "endOffset": 5015
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5020,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 5162
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5167,
+                    "endColumn": 74,
+                    "endOffset": 5237
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5242,
+                    "endColumn": 88,
+                    "endOffset": 5326
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5331,
+                    "endColumn": 86,
+                    "endOffset": 5413
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5418,
+                    "endColumn": 100,
+                    "endOffset": 5514
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5519,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 8582
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8587,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 8768
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8773,
+                    "endLine": 155,
+                    "endColumn": 12,
+                    "endOffset": 11848
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 11853,
+                    "endLine": 158,
+                    "endColumn": 12,
+                    "endOffset": 12046
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 159,
+                    "startColumn": 4,
+                    "startOffset": 12051,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 12169
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 12174,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 12292
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 12297,
+                    "endLine": 164,
+                    "endColumn": 12,
+                    "endOffset": 12405
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 165,
+                    "startColumn": 4,
+                    "startOffset": 12410,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12588
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12593,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12719
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12724,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 12920
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 12925,
+                    "endColumn": 88,
+                    "endOffset": 13009
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 174,
+                    "startColumn": 4,
+                    "startOffset": 13014,
+                    "endColumn": 110,
+                    "endOffset": 13120
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13125,
+                    "endColumn": 126,
+                    "endOffset": 13247
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13252,
+                    "endColumn": 100,
+                    "endOffset": 13348
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13353,
+                    "endColumn": 94,
+                    "endOffset": 13443
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13448,
+                    "endColumn": 122,
+                    "endOffset": 13566
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13571,
+                    "endColumn": 128,
+                    "endOffset": 13695
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13700,
+                    "endColumn": 116,
+                    "endOffset": 13812
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13817,
+                    "endLine": 183,
+                    "endColumn": 12,
+                    "endOffset": 13989
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13994,
+                    "endColumn": 98,
+                    "endOffset": 14088
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 185,
+                    "startColumn": 4,
+                    "startOffset": 14093,
+                    "endLine": 186,
+                    "endColumn": 12,
+                    "endOffset": 14223
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 187,
+                    "startColumn": 4,
+                    "startOffset": 14228,
+                    "endLine": 188,
+                    "endColumn": 12,
+                    "endOffset": 14366
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14371,
+                    "endLine": 190,
+                    "endColumn": 12,
+                    "endOffset": 14501
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 191,
+                    "startColumn": 4,
+                    "startOffset": 14506,
+                    "endLine": 192,
+                    "endColumn": 12,
+                    "endOffset": 14620
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14625,
+                    "endLine": 196,
+                    "endColumn": 12,
+                    "endOffset": 14821
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 197,
+                    "startColumn": 4,
+                    "startOffset": 14826,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 14940
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 14945,
+                    "endColumn": 92,
+                    "endOffset": 15033
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15038,
+                    "endColumn": 110,
+                    "endOffset": 15144
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 15149,
+                    "endColumn": 55,
+                    "endOffset": 15200
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 202,
+                    "startColumn": 4,
+                    "startOffset": 15205,
+                    "endLine": 203,
+                    "endColumn": 12,
+                    "endOffset": 15307
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 15312,
+                    "endLine": 207,
+                    "endColumn": 12,
+                    "endOffset": 15502
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 15507,
+                    "endLine": 209,
+                    "endColumn": 12,
+                    "endOffset": 15613
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 15618,
+                    "endLine": 211,
+                    "endColumn": 12,
+                    "endOffset": 15746
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 15751,
+                    "endColumn": 94,
+                    "endOffset": 15841
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 15846,
+                    "endColumn": 90,
+                    "endOffset": 15932
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 15937,
+                    "endColumn": 90,
+                    "endOffset": 16023
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 16028,
+                    "endColumn": 116,
+                    "endOffset": 16140
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 16145,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 16279
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16284,
+                    "endLine": 224,
+                    "endColumn": 12,
+                    "endOffset": 16632
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16637,
+                    "endLine": 231,
+                    "endColumn": 12,
+                    "endOffset": 16997
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 17002,
+                    "endLine": 241,
+                    "endColumn": 12,
+                    "endOffset": 17677
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 17682,
+                    "endColumn": 56,
+                    "endOffset": 17734
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 17739,
+                    "endColumn": 57,
+                    "endOffset": 17792
+                },
+                "from": {
+                    "file": "C:\\Users\\rsh\\AndroidStudioProjects\\MobileHealthNetwork\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml"
+                }
+            }
+        ]
+    }
+]
